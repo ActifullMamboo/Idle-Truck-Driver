@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: aa9e5510c2b2c6f4f97a0854827901d6, type: 3}
+  m_Name: PurchaseConfig
+  m_EditorClassIdentifier: 
+  _products:
+  - _priceIos: 2.99
+    _priceAndroid: 2.99
+    _productId: com.amazon.mamboo.idle.truck.driver.subscription
+    _productType: 2

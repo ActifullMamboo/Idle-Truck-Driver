@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<dependencies>
+  <androidPackages>
+    <androidPackage spec="com.yandex.android:mobmetricalib:5.3.0" />
+    <androidPackage spec="com.yandex.varioqub:config:0.6.0" />
+    <androidPackage spec="com.yandex.varioqub:appmetrica-adapter:0.6.0" />
+  </androidPackages>
+</dependencies>

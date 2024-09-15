@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dependencies>
+    <androidPackages>
+        <androidPackage spec="com.ironsource.adapters:apsadapter:4.3.9" />
+    </androidPackages>
+    <iosPods>
+        <iosPod name="IronSourceAPSAdapter" version="~> 4.3" />
+    </iosPods>
+</dependencies>

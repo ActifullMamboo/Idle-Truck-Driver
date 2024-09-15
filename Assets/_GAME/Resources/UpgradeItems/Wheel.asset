@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 86ce8a48c9e24cd458d5e53152cf2ab1, type: 3}
+  m_Name: Wheel
+  m_EditorClassIdentifier: 
+  upgradeType: 0
+  upgradeName: Wheel
+  itemsToUpgrade:
+  - ID: 0
+    price: 50
+    sprite: {fileID: 21300000, guid: 7f0b43d90b2104e44b6a6a70873f6810, type: 3}
+  - ID: 1
+    price: 500
+    sprite: {fileID: 21300000, guid: d92ffe25064166643bc76bac111b1504, type: 3}
+  - ID: 2
+    price: 1500
+    sprite: {fileID: 21300000, guid: e1eeea02ad02ab3479173937aa190a52, type: 3}
+  - ID: 3
+    price: 2500
+    sprite: {fileID: 21300000, guid: 1f7e4a12d0013e34eb0fdb2d966bd499, type: 3}
+  - ID: 4
+    price: 999
+    sprite: {fileID: 21300000, guid: eb3df7a6282d64448b1bbf56c5ef4e97, type: 3}
+  - ID: 5
+    price: 999
+    sprite: {fileID: 21300000, guid: 5e0e3b924f9d3ac4890cf9481dfafdf3, type: 3}
+  - ID: 6
+    price: 999
+    sprite: {fileID: 21300000, guid: 55168812cb3690245bd42eb1e9e25612, type: 3}
+  - ID: 7
+    price: 999
+    sprite: {fileID: 21300000, guid: 888d4d73ea5e57d42bf6a8ed87ebc90f, type: 3}
+  activeItem: -1

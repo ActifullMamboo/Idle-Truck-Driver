@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "423032833085",
+    "project_id": "a53739464-1d4c-4b3a-a",
+    "storage_bucket": "a53739464-1d4c-4b3a-a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:423032833085:android:51cfbe6188cf3c628fd654",
+        "android_client_info": {
+          "package_name": "com.amazon.mamboo.idle.truck.driver"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDe2XHrz18T_959nZIT-Mw4bGlKR9qaoy8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 28960ffe1e36cd54a8f7a93fd8069bd8, type: 3}
+  m_Name: SDKResources
+  m_EditorClassIdentifier: 
+  ApiKeys:
+    paidVersion: 0
+    AppMetricaAndroid: 
+    AppMetricaAppId: 
+    AppodealAppKey: 
+    IronSourceAppKey: 
+    AmazonAppKey: 
+    AmazonBannerSlotId: 
+    AmazonInterVideoId: 
+    AmazonRewardVideoId: 
+    AdmobAndroidAppId: 
+    BundleId: 
+  IsAmazonSettedUp: 0
+  IsPackagesInstalled: 0

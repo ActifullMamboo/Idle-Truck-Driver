@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7b84270a3b8c9fb49ae579297071bbf0, type: 3}
+  m_Name: AdsSettings
+  m_EditorClassIdentifier: 
+  IronSourceAppKey: 1f49f6635
+  AppodealAppKey: 3e61fb00502bd95107f3cb0799be39a8cc85196575db680e
+  AmazonApiKey: 054f3323-279b-45ef-b675-add54c009831
+  AmazonBannerSlotId: b9462fb4-3eb5-45b4-a642-c402b8320d02
+  AmazonInterstitialVideoSlotId: 7ee38467-8e3f-4d68-a026-057fdd8bdaa5
+  AmazonRewardedVideoSlotId: 2bd5c143-33bf-48d4-a14c-ed20a542b3a8
